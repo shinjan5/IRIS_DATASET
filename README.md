@@ -50,5 +50,12 @@ Mean accuracy ± standard deviation across folds:
 
 ## 📈 Sample Validation Metrics (SVM)
 
+**Classification Report:**
+- **Iris-setosa**: precision = 1.00, recall = 1.00, f1 = 1.00  
+- **Iris-versicolor**: precision = 1.00, recall = 0.92, f1 = 0.96  
+- **Iris-virginica**: precision = 0.86, recall = 1.00, f1 = 0.92  
+
+
+
 
 
